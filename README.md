@@ -1,7 +1,5 @@
 # PLC-Traffic-Light-System
 
-# PLC-Filling-Mach
-
 ## General Information
 
 ### PLC Used: Fatek FBS Series PLC
